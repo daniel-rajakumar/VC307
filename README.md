@@ -1,4 +1,4 @@
-# VC407 - VC370 Assembler and Emulator
+# VC370 Assembler and Emulator
 
 A two-pass assembler and emulator for the VC370/Quack3200 instruction set.
 It parses `.asm` source, builds a symbol table, translates to machine code,
