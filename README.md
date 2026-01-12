@@ -40,13 +40,13 @@ make demo-fib
 
 ## Screenshots
 ![Screenshot 1](screenshots/one.png)
-Caption: Demo output (1).
+Caption: Demo 1 assembles the sum program, prints the symbol table and translation, then emulates input 5 and 3 to produce a sum of 8.
 ![Screenshot 2](screenshots/two.png)
-Caption: Demo output (2).
+Caption: Demo 2 assembles the factorial program and runs the emulator with input 9, producing 9! = 362880.
 ![Screenshot 3](screenshots/three.png)
-Caption: Demo output (3).
+Caption: Demo 3 shows the branch/diff program and emulates input 3 and 7, outputting the absolute difference of 4.
 ![Screenshot 4](screenshots/four.png)
-Caption: Demo output (4).
+Caption: Demo 4 assembles the Fibonacci program and emulates input 9, outputting the 9th Fibonacci number as 34.
 
 ## Friendly I/O mode
 The emulator can print human-friendly prompts and outputs for demos using `ASSEM_FRIENDLY_IO`:
