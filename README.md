@@ -43,25 +43,25 @@ make demo-fib
   <tr>
     <td>
       <img src="screenshots/one.png" alt="Demo 1 output">
-      <p>Demo 1 assembles the sum program, prints the symbol table and translation, then emulates input 5 and 3 to produce a sum of 8.</p>
+      <pre>Demo 1 assembles the sum program, prints the symbol table and translation, then emulates input 5 and 3 to produce a sum of 8.</pre>
     </td>
   </tr>
   <tr>
     <td>
       <img src="screenshots/two.png" alt="Demo 2 output">
-      <p>Demo 2 assembles the factorial program and runs the emulator with input 9, producing 9! = 362880.</p>
+      <pre>Demo 2 assembles the factorial program and runs the emulator with input 9, producing 9! = 362880.</pre>
     </td>
   </tr>
   <tr>
     <td>
       <img src="screenshots/three.png" alt="Demo 3 output">
-      <p>Demo 3 shows the branch/diff program and emulates input 3 and 7, outputting the absolute difference of 4.</p>
+      <pre>Demo 3 shows the branch/diff program and emulates input 3 and 7, outputting the absolute difference of 4.</pre>
     </td>
   </tr>
   <tr>
     <td>
       <img src="screenshots/four.png" alt="Demo 4 output">
-      <p>Demo 4 assembles the Fibonacci program and emulates input 9, outputting the 9th Fibonacci number as 34.</p>
+      <pre>Demo 4 assembles the Fibonacci program and emulates input 9, outputting the 9th Fibonacci number as 34.</pre>
     </td>
   </tr>
 </table>
