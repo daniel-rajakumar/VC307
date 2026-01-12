@@ -39,10 +39,10 @@ make demo-fib
 ```
 
 ## Screenshots
-<table>
+<table width="100%">
   <tr>
     <td>
-      <table>
+      <table width="100%">
         <tr>
           <td><h3>Screenshot 1</h3></td>
         </tr>
@@ -57,7 +57,7 @@ make demo-fib
   </tr>
   <tr>
     <td>
-      <table>
+      <table width="100%">
         <tr>
           <td><h3>Screenshot 2</h3></td>
         </tr>
@@ -72,7 +72,7 @@ make demo-fib
   </tr>
   <tr>
     <td>
-      <table>
+      <table width="100%">
         <tr>
           <td><h3>Screenshot 3</h3></td>
         </tr>
@@ -87,7 +87,7 @@ make demo-fib
   </tr>
   <tr>
     <td>
-      <table>
+      <table width="100%">
         <tr>
           <td><h3>Screenshot 4</h3></td>
         </tr>
